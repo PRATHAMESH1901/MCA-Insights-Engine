@@ -1,0 +1,50 @@
+[
+  {
+    "date": "20251019",
+    "total_changes": 10009,
+    "new_incorporations": 9,
+    "deregistrations": 0,
+    "field_updates": 10000,
+    "affected_states": [
+      "Maharashtra",
+      "Gujarat",
+      "Delhi"
+    ],
+    "field_change_breakdown": {
+      "AUTHORIZED_CAPITAL": 5000,
+      "PAIDUP_CAPITAL": 5000
+    }
+  },
+  {
+    "date": "20251020",
+    "total_changes": 24,
+    "new_incorporations": 10,
+    "deregistrations": 0,
+    "field_updates": 14,
+    "affected_states": [
+      "Maharashtra",
+      "Delhi",
+      "Gujarat"
+    ],
+    "field_change_breakdown": {
+      "AUTHORIZED_CAPITAL": 7,
+      "PAIDUP_CAPITAL": 7
+    }
+  },
+  {
+    "date": "20251021",
+    "total_changes": 19,
+    "new_incorporations": 5,
+    "deregistrations": 0,
+    "field_updates": 14,
+    "affected_states": [
+      "Delhi",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "field_change_breakdown": {
+      "AUTHORIZED_CAPITAL": 7,
+      "PAIDUP_CAPITAL": 7
+    }
+  }
+]

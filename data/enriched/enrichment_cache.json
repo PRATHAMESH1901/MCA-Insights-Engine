@@ -1,0 +1,1330 @@
+{
+  "L79536MH2016PLC144071": {
+    "CIN": "L79536MH2016PLC144071",
+    "COMPANY_NAME": "FINANCE OPC PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:10.041087",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA79536ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L79536MH2016PLC144071",
+      "https://api.mca.gov.in/company/L79536MH2016PLC144071",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U22517MH2011PLC666727": {
+    "CIN": "U22517MH2011PLC666727",
+    "COMPANY_NAME": "ENTERPRISES TECHNOLOGIES LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:10.041286",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA22517ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U22517MH2011PLC666727",
+      "https://api.mca.gov.in/company/U22517MH2011PLC666727",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U81599MH2000OPC340789": {
+    "CIN": "U81599MH2000OPC340789",
+    "COMPANY_NAME": "GLOBAL TEXTILES OPC PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:10.041204",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA81599ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U81599MH2000OPC340789",
+      "https://api.mca.gov.in/company/U81599MH2000OPC340789",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L57087MH2004OPC457453": {
+    "CIN": "L57087MH2004OPC457453",
+    "COMPANY_NAME": "IMPORTS PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:12.045840",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA57087ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L57087MH2004OPC457453",
+      "https://api.mca.gov.in/company/L57087MH2004OPC457453",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L51761MH2022PTC376184": {
+    "CIN": "L51761MH2022PTC376184",
+    "COMPANY_NAME": "EDUCATION FOODS OPC PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:12.047305",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA51761ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L51761MH2022PTC376184",
+      "https://api.mca.gov.in/company/L51761MH2022PTC376184",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L89580MH2017PLC543402": {
+    "CIN": "L89580MH2017PLC543402",
+    "COMPANY_NAME": "REALTY TRADING TECHNOLOGIES PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:12.047585",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA89580ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L89580MH2017PLC543402",
+      "https://api.mca.gov.in/company/L89580MH2017PLC543402",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L42804MH2020PTC208344": {
+    "CIN": "L42804MH2020PTC208344",
+    "COMPANY_NAME": "FOODS CONSULTANCY INNOVATIONS PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:14.056606",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA42804ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L42804MH2020PTC208344",
+      "https://api.mca.gov.in/company/L42804MH2020PTC208344",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U18669MH2017OPC131893": {
+    "CIN": "U18669MH2017OPC131893",
+    "COMPANY_NAME": "CAPITAL LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "UNDER LIQUIDATION",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:14.057475",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA18669ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U18669MH2017OPC131893",
+      "https://api.mca.gov.in/company/U18669MH2017OPC131893",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U18905MH2016PTC133919": {
+    "CIN": "U18905MH2016PTC133919",
+    "COMPANY_NAME": "CORPORATIONS PRIVATE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:14.057601",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA18905ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U18905MH2016PTC133919",
+      "https://api.mca.gov.in/company/U18905MH2016PTC133919",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U88660GJ2018PTC197464": {
+    "CIN": "U88660GJ2018PTC197464",
+    "COMPANY_NAME": "IMPORTS LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:16.068174",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA88660ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U88660GJ2018PTC197464",
+      "https://api.mca.gov.in/company/U88660GJ2018PTC197464",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U31820GJ2023OPC188879": {
+    "CIN": "U31820GJ2023OPC188879",
+    "COMPANY_NAME": "CHEMICALS INNOVATIONS MANUFACTURING LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "DISSOLVED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:16.068053",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA31820ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U31820GJ2023OPC188879",
+      "https://api.mca.gov.in/company/U31820GJ2023OPC188879",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L59481MH2009PLC919008": {
+    "CIN": "L59481MH2009PLC919008",
+    "COMPANY_NAME": "TECH HEALTHCARE LIMITED",
+    "STATE": "Maharashtra",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:16.067367",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Mumbai",
+    "GSTIN": "27AAAA59481ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L59481MH2009PLC919008",
+      "https://api.mca.gov.in/company/L59481MH2009PLC919008",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L47641GJ2000PLC410725": {
+    "CIN": "L47641GJ2000PLC410725",
+    "COMPANY_NAME": "INDIA ENTERPRISES FINANCE LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "DISSOLVED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:18.077739",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Retail Trade",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Retail",
+    "BUSINESS_DESCRIPTION": "Company engaged in retail trade",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA47641ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L47641GJ2000PLC410725",
+      "https://api.mca.gov.in/company/L47641GJ2000PLC410725",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U88393GJ2004OPC882561": {
+    "CIN": "U88393GJ2004OPC882561",
+    "COMPANY_NAME": "PHARMA PRIVATE LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:18.078001",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA88393ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U88393GJ2004OPC882561",
+      "https://api.mca.gov.in/company/U88393GJ2004OPC882561",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L20553GJ2003OPC235491": {
+    "CIN": "L20553GJ2003OPC235491",
+    "COMPANY_NAME": "DEVELOPERS SYSTEMS LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:18.078153",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA20553ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L20553GJ2003OPC235491",
+      "https://api.mca.gov.in/company/L20553GJ2003OPC235491",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L38957GJ2001PTC931976": {
+    "CIN": "L38957GJ2001PTC931976",
+    "COMPANY_NAME": "HEALTHCARE LIMITED",
+    "STATE": "Gujarat",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:20.084122",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Ahmedabad",
+    "GSTIN": "24AAAA38957ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L38957GJ2001PTC931976",
+      "https://api.mca.gov.in/company/L38957GJ2001PTC931976",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U71953DL2020OPC541521": {
+    "CIN": "U71953DL2020OPC541521",
+    "COMPANY_NAME": "EDUCATION FINANCE CHEMICALS OPC PRIVATE LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:20.088211",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA71953ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U71953DL2020OPC541521",
+      "https://api.mca.gov.in/company/U71953DL2020OPC541521",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U33852DL2019PLC912256": {
+    "CIN": "U33852DL2019PLC912256",
+    "COMPANY_NAME": "FOODS TRADING PRIVATE LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "UNDER LIQUIDATION",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:20.088359",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA33852ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U33852DL2019PLC912256",
+      "https://api.mca.gov.in/company/U33852DL2019PLC912256",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U72676DL2013OPC229599": {
+    "CIN": "U72676DL2013OPC229599",
+    "COMPANY_NAME": "TRADING CONSULTANCY LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:22.098418",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Computer Programming and Consultancy",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Technology",
+    "BUSINESS_DESCRIPTION": "Company engaged in computer programming and consultancy",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA72676ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U72676DL2013OPC229599",
+      "https://api.mca.gov.in/company/U72676DL2013OPC229599",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L57823DL2023OPC932856": {
+    "CIN": "L57823DL2023OPC932856",
+    "COMPANY_NAME": "SERVICES TRADING INDUSTRIES OPC PRIVATE LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:22.094703",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA57823ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L57823DL2023OPC932856",
+      "https://api.mca.gov.in/company/L57823DL2023OPC932856",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U65318DL2013PLC117178": {
+    "CIN": "U65318DL2013PLC117178",
+    "COMPANY_NAME": "SOLUTIONS INDIA LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:22.098590",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA65318ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U65318DL2013PLC117178",
+      "https://api.mca.gov.in/company/U65318DL2013PLC117178",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L55061DL2002PTC365270": {
+    "CIN": "L55061DL2002PTC365270",
+    "COMPANY_NAME": "TECH SOLUTIONS LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:24.102637",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA55061ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L55061DL2002PTC365270",
+      "https://api.mca.gov.in/company/L55061DL2002PTC365270",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L36102DL2015PTC738696": {
+    "CIN": "L36102DL2015PTC738696",
+    "COMPANY_NAME": "FOODS CHEMICALS EXPORTS PRIVATE LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:24.102403",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA36102ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L36102DL2015PTC738696",
+      "https://api.mca.gov.in/company/L36102DL2015PTC738696",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L27449DL2000PLC399402": {
+    "CIN": "L27449DL2000PLC399402",
+    "COMPANY_NAME": "IMPORTS PHARMA LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:24.108836",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA27449ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L27449DL2000PLC399402",
+      "https://api.mca.gov.in/company/L27449DL2000PLC399402",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U39974DL2011PTC270525": {
+    "CIN": "U39974DL2011PTC270525",
+    "COMPANY_NAME": "CONSULTANCY INNOVATIONS PRIVATE LIMITED",
+    "STATE": "Delhi",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:26.110447",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Delhi",
+    "GSTIN": "07AAAA39974ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U39974DL2011PTC270525",
+      "https://api.mca.gov.in/company/U39974DL2011PTC270525",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L56963TN2022PLC737488": {
+    "CIN": "L56963TN2022PLC737488",
+    "COMPANY_NAME": "INNOVATIONS OPC PRIVATE LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "DISSOLVED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:26.112837",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA56963ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L56963TN2022PLC737488",
+      "https://api.mca.gov.in/company/L56963TN2022PLC737488",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L54362TN2022PLC894303": {
+    "CIN": "L54362TN2022PLC894303",
+    "COMPANY_NAME": "SYSTEMS PRIVATE LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:26.114909",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA54362ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L54362TN2022PLC894303",
+      "https://api.mca.gov.in/company/L54362TN2022PLC894303",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U41548TN2013PLC213619": {
+    "CIN": "U41548TN2013PLC213619",
+    "COMPANY_NAME": "TECHNOLOGIES INNOVATIONS OPC PRIVATE LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:28.120177",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA41548ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U41548TN2013PLC213619",
+      "https://api.mca.gov.in/company/U41548TN2013PLC213619",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L43796TN2004PTC281319": {
+    "CIN": "L43796TN2004PTC281319",
+    "COMPANY_NAME": "GLOBAL TEXTILES CONSULTANCY LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:28.119944",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA43796ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L43796TN2004PTC281319",
+      "https://api.mca.gov.in/company/L43796TN2004PTC281319",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L57207TN2021PTC521869": {
+    "CIN": "L57207TN2021PTC521869",
+    "COMPANY_NAME": "INDUSTRIES DEVELOPERS EXPORTS LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:28.120332",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA57207ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L57207TN2021PTC521869",
+      "https://api.mca.gov.in/company/L57207TN2021PTC521869",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L91757KA2015PLC849905": {
+    "CIN": "L91757KA2015PLC849905",
+    "COMPANY_NAME": "TRADING PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:30.129291",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA91757ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L91757KA2015PLC849905",
+      "https://api.mca.gov.in/company/L91757KA2015PLC849905",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U99399KA2015OPC897580": {
+    "CIN": "U99399KA2015OPC897580",
+    "COMPANY_NAME": "INDUSTRIES PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "UNDER LIQUIDATION",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:30.129453",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA99399ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U99399KA2015OPC897580",
+      "https://api.mca.gov.in/company/U99399KA2015OPC897580",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L65842TN2002PLC445496": {
+    "CIN": "L65842TN2002PLC445496",
+    "COMPANY_NAME": "CONSTRUCTIONS ENTERPRISES OPC PRIVATE LIMITED",
+    "STATE": "Tamil Nadu",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:30.129112",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Chennai",
+    "GSTIN": "33AAAA65842ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L65842TN2002PLC445496",
+      "https://api.mca.gov.in/company/L65842TN2002PLC445496",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L60517KA2008OPC968727": {
+    "CIN": "L60517KA2008OPC968727",
+    "COMPANY_NAME": "PHARMA FOODS EXPORTS PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "UNDER LIQUIDATION",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:32.136733",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA60517ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L60517KA2008OPC968727",
+      "https://api.mca.gov.in/company/L60517KA2008OPC968727",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L89203KA2003OPC305330": {
+    "CIN": "L89203KA2003OPC305330",
+    "COMPANY_NAME": "TRADING INDUSTRIES LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:32.139411",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA89203ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L89203KA2003OPC305330",
+      "https://api.mca.gov.in/company/L89203KA2003OPC305330",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L14763KA2001PTC870287": {
+    "CIN": "L14763KA2001PTC870287",
+    "COMPANY_NAME": "ENTERPRISES PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:32.136967",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA14763ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L14763KA2001PTC870287",
+      "https://api.mca.gov.in/company/L14763KA2001PTC870287",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L96713KA2006PTC452726": {
+    "CIN": "L96713KA2006PTC452726",
+    "COMPANY_NAME": "INNOVATIONS MANUFACTURING PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "AMALGAMATED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:34.142157",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA96713ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L96713KA2006PTC452726",
+      "https://api.mca.gov.in/company/L96713KA2006PTC452726",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "U62696KA2021PTC576312": {
+    "CIN": "U62696KA2021PTC576312",
+    "COMPANY_NAME": "SYSTEMS INTERNATIONAL PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "STRIKE OFF",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:34.145069",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Information Service Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Information Technology",
+    "BUSINESS_DESCRIPTION": "Company engaged in information service activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA62696ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/U62696KA2021PTC576312",
+      "https://api.mca.gov.in/company/U62696KA2021PTC576312",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L83943KA2017PLC905080": {
+    "CIN": "L83943KA2017PLC905080",
+    "COMPANY_NAME": "INDIA INNOVATIONS TECHNOLOGIES PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "UNDER LIQUIDATION",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:34.147176",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA83943ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L83943KA2017PLC905080",
+      "https://api.mca.gov.in/company/L83943KA2017PLC905080",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L88192KA2006PTC182638": {
+    "CIN": "L88192KA2006PTC182638",
+    "COMPANY_NAME": "INDIA PRIVATE LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "ACTIVE",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:36.154769",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA88192ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L88192KA2006PTC182638",
+      "https://api.mca.gov.in/company/L88192KA2006PTC182638",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  },
+  "L24396KA2002PLC505876": {
+    "CIN": "L24396KA2002PLC505876",
+    "COMPANY_NAME": "EXPORTS LIMITED",
+    "STATE": "Karnataka",
+    "STATUS": "DISSOLVED",
+    "ENRICHMENT_DATE": "2025-10-19T10:00:36.152752",
+    "ENRICHMENT_SOURCES": [
+      "ZaubaCorp",
+      "MCA_API",
+      "GST_Portal"
+    ],
+    "INDUSTRY": "Other Business Activities",
+    "DIRECTORS": [
+      "Rajesh Kumar",
+      "Priya Sharma",
+      "Amit Patel"
+    ],
+    "SECTOR": "Other Services",
+    "BUSINESS_DESCRIPTION": "Company engaged in other business activities",
+    "COMPLIANCE_STATUS": "Compliant",
+    "LAST_AGM_DATE": "2023-09-30",
+    "LAST_BALANCE_SHEET_DATE": "2023-03-31",
+    "ROC_DETAILS": "ROC-Bangalore",
+    "GSTIN": "29AAAA24396ABCD1Z5",
+    "GST_STATUS": "Active",
+    "GST_REGISTRATION_DATE": "2017-07-01",
+    "SOURCE_URLS": [
+      "https://www.zaubacorp.com/company/L24396KA2002PLC505876",
+      "https://api.mca.gov.in/company/L24396KA2002PLC505876",
+      "https://gst.gov.in/search"
+    ],
+    "ENRICHMENT_COMPLETE": true
+  }
+}

@@ -1,0 +1,137 @@
+"""
+REST API for MCA Insights Engine
+Provides endpoints for external integrations
+"""
+
+from flask import Flask, request, jsonify
+from flask_restful import Resource, Api
+import pandas as pd
+from pathlib import Path
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from src.database import DatabaseManager
+
+app = Flask(__name__)
+api = Api(app)
+
+db_manager = DatabaseManager()
+
+class SearchCompany(Resource):
+    def get(self):
+        query = request.args.get('query', '')
+        state = request.args.get('state', None)
+        status = request.args.get('status', None)
+        
+        if not query:
+            return {'error': 'Query parameter is required'}, 400
+        
+        results = db_manager.search_company(query)
+        
+        if state:
+            results = results[results['state'] == state]
+        
+        if status:
+            results = results[results['company_status'] == status]
+        
+        return {
+            'total': len(results),
+            'companies': results.to_dict('records')
+        }
+
+class CompanyDetail(Resource):
+    def get(self, cin):
+        company = db_manager.get_company_by_cin(cin)
+        
+        if not company:
+            return {'error': 'Company not found'}, 404
+        
+        return {'company': company}
+
+class RecentChanges(Resource):
+    def get(self):
+        date = request.args.get('date', None)
+        change_type = request.args.get('type', None)
+        
+        if date:
+            changes = db_manager.get_changes_by_date(date)
+        else:
+            conn = db_manager.get_connection()
+            changes = pd.read_sql_query(
+                "SELECT * FROM changes ORDER BY date DESC LIMIT 100",
+                conn
+            )
+        
+        if change_type:
+            changes = changes[changes['change_type'] == change_type]
+        
+        return {
+            'total': len(changes),
+            'changes': changes.to_dict('records')
+        }
+
+class Statistics(Resource):
+    def get(self):
+        stats = db_manager.get_statistics()
+        
+        conn = db_manager.get_connection()
+        
+        status_dist = pd.read_sql_query(
+            "SELECT company_status, COUNT(*) as count FROM companies GROUP BY company_status",
+            conn
+        )
+        
+        state_dist = pd.read_sql_query(
+            "SELECT state, COUNT(*) as count FROM companies GROUP BY state ORDER BY count DESC LIMIT 10",
+            conn
+        )
+        
+        change_type_dist = pd.read_sql_query(
+            "SELECT change_type, COUNT(*) as count FROM changes GROUP BY change_type",
+            conn
+        )
+        
+        stats['status_distribution'] = status_dist.to_dict('records')
+        stats['state_distribution'] = state_dist.to_dict('records')
+        stats['change_type_distribution'] = change_type_dist.to_dict('records')
+        
+        return stats
+
+class StateCompanies(Resource):
+    def get(self, state):
+        companies = db_manager.get_companies_by_state(state)
+        
+        return {
+            'state': state,
+            'total': len(companies),
+            'companies': companies.to_dict('records')
+        }
+
+api.add_resource(SearchCompany, '/api/search_company')
+api.add_resource(CompanyDetail, '/api/company/<string:cin>')
+api.add_resource(RecentChanges, '/api/changes')
+api.add_resource(Statistics, '/api/stats')
+api.add_resource(StateCompanies, '/api/state/<string:state>')
+
+@app.route('/')
+def home():
+    return jsonify({
+        'message': 'MCA Insights Engine API',
+        'version': '1.0',
+        'endpoints': {
+            'search': '/api/search_company?query=<search_term>',
+            'company_detail': '/api/company/<cin>',
+            'changes': '/api/changes?date=<YYYYMMDD>&type=<change_type>',
+            'statistics': '/api/stats',
+            'state_companies': '/api/state/<state_name>'
+        }
+    })
+
+@app.route('/health')
+def health():
+    return jsonify({'status': 'healthy'})
+
+if __name__ == '__main__':
+    app.run(debug=True, host='0.0.0.0', port=5000)

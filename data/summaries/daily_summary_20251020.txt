@@ -1,0 +1,21 @@
+
+=== MCA Daily Change Summary ===
+Date: 20251020
+
+📊 Overall Statistics:
+- New Incorporations: 10
+- Deregistrations: 0
+- Field Updates: 14
+- Total Changes: 24
+
+
+🗺️ Top States by Changes:
+  - Delhi: 5
+  - Maharashtra: 3
+  - Gujarat: 2
+
+📝 Most Updated Fields:
+  - AUTHORIZED_CAPITAL: 7
+  - PAIDUP_CAPITAL: 7
+
+✅ Summary generated at: 2025-10-19 10:00:48

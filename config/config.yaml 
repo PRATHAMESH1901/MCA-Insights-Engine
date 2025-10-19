@@ -1,0 +1,28 @@
+database:
+  path: "data/mca_master.db"
+  
+data_sources:
+  states:
+    - Maharashtra
+    - Gujarat
+    - Delhi
+    - Tamil Nadu
+    - Karnataka
+  
+  urls:
+    mca_data: "https://data.gov.in/catalog/company-master-data"
+    
+enrichment:
+  sources:
+    - name: "ZaubaCorp"
+      url: "https://www.zaubacorp.com/company/"
+    - name: "API Setu"
+      url: "https://apisetu.gov.in/api/"
+      
+ai:
+  model: "gpt-3.5-turbo"
+  temperature: 0.7
+  
+app:
+  port: 8501
+  debug: true
